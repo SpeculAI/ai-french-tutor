@@ -1,0 +1,7 @@
+{
+  "name": "AI French Tutor",
+  "description": "An AI-powered French tutoring application that adapts its curriculum to your personal interests, making learning French engaging and fun. Based on DELF principles but driven by your passions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
